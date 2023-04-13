@@ -1,6 +1,6 @@
-# Steps
+# Game Project
 
-para correr el juego debes seguir las instrucciones en la terminal
+para correr el juego debes seguir las instrucciones en la terminal:
 
 ...sh
 cd game
