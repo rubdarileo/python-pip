@@ -2,10 +2,10 @@
 
 para correr el juego debes seguir las instrucciones en la terminal:
 
-'''sh
+```sh
 cd game
 python3 main.py
-'''
+```
 
 
 # App Project
@@ -13,6 +13,7 @@ python3 main.py
 ```sh
 git clone
 cd app
+python3 -m venv env
 source app-env/bin/activate
 pip3 install -r requeriments.txt
 python3 main.py
